@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## ChordGAN: Symbolic Music Style Transfer with Chroma Feature Extraction
+
+Conan Lu and Shlomo Dubnov 
+
+Work in progress. Will add files, datasets, samples, and code here. 
 
 You can use the [editor on GitHub](https://github.com/conanlu/composeGAN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

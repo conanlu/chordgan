@@ -1,4 +1,4 @@
-layout: jekyll-theme-minimal
+layout: page
 title: "abstract"
 permalink: /abstract/
 

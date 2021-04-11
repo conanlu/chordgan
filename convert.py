@@ -33,7 +33,7 @@ def forward(t):
 
 def back(res):
     #ganmidi piano roll to prettymidi piano roll
-    input = res
+    res = np.transpose(res)
     inputnotes = res[:78, :np.shape(res)[1]]
     inputrhythm = res[78:, :np.shape(res)[1]]
     midiback = np.zeros((78, 2*np.shape(inputnotes)[1]))

@@ -10,7 +10,7 @@ University of California, San Diego
 The Python scripts and Colab notebooks are compatible with Tensorflow 1.15.  
 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1000px-Tensorflow_logo.svg.png" width="25"/> How To Use
+## <img src="https://static.javatpoint.com/tutorial/google-colab/images/google-colab.png" width="25"/> How To Use
 The Colab version is able to train the model and run transfer samples. Provide two datasets (folders of MIDI files) for runtime.
 
 ### Colab
